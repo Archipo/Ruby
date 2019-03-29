@@ -6,6 +6,3 @@ fake_mail = 1.upto(50) do |iterating_mail|
         array << "jean.dupont.#{iterating_mail}@email.fr,"
     end
 end
-puts array
-
-
